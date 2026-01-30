@@ -25,7 +25,7 @@ I was responsible for:
 
 
 ## CAD Model
-![Mobile Healthcare Robot]()
+![Mobile Healthcare Robot](https://github.com/milanroy4509/Mobile-Healthcare-Robot-SolidWorks-FEA/blob/bb0d37e725b0143621c5d99714c0e3dd65423f67/images/mobile%20healthcare%20robot%20image.jpg)
 
 
 
