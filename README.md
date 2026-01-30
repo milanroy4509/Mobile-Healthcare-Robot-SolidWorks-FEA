@@ -22,3 +22,10 @@ I was responsible for:
 ## Tools Used
 - SolidWorks
 - Finite Element Analysis (FEA)
+
+
+## CAD Model
+![Mobile Healthcare Robot]()
+
+
+
